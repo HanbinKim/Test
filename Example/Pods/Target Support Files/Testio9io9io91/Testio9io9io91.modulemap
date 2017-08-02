@@ -1,6 +1,0 @@
-framework module Testio9io9io91 {
-  umbrella header "Testio9io9io91-umbrella.h"
-
-  export *
-  module * { export * }
-}

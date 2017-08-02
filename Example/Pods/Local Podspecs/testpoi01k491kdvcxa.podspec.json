@@ -1,0 +1,22 @@
+{
+  "name": "testpoi01k491kdvcxa",
+  "version": "0.1.0",
+  "summary": "A short description of testpoi01k491kdvcxa.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hanbin/testpoi01k491kdvcxa",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hanbin": "hanbin.kim@navercorp.com"
+  },
+  "source": {
+    "git": "https://github.com/hanbin/testpoi01k491kdvcxa.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testpoi01k491kdvcxa/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module testpoi01k491kdvcxa {
+  umbrella header "testpoi01k491kdvcxa-umbrella.h"
+
+  export *
+  module * { export * }
+}

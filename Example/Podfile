@@ -1,9 +1,9 @@
 use_frameworks!
 
-target 'Testio9io9io91_Example' do
-  pod 'Testio9io9io91', :path => '../'
+target 'testpoi01k491kdvcxa_Example' do
+  pod 'testpoi01k491kdvcxa', :path => '../'
 
-  target 'Testio9io9io91_Tests' do
+  target 'testpoi01k491kdvcxa_Tests' do
     inherit! :search_paths
 
     
