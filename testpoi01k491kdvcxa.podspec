@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'testpoi01k491kdvcxa'
-  s.version          = '0.4.0'
+  s.version          = '0.5.0'
   s.summary          = 'Wow'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/hanbin/testpoi01k491kdvcxa'
+  s.homepage         = 'https://github.com/HanbinKim/Test'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hanbin' => 'hanbin.kim@navercorp.com' }
