@@ -1,9 +1,9 @@
-# Test
+# Testio9io9io91
 
-[![CI Status](http://img.shields.io/travis/hanbin/Test.svg?style=flat)](https://travis-ci.org/hanbin/Test)
-[![Version](https://img.shields.io/cocoapods/v/Test.svg?style=flat)](http://cocoapods.org/pods/Test)
-[![License](https://img.shields.io/cocoapods/l/Test.svg?style=flat)](http://cocoapods.org/pods/Test)
-[![Platform](https://img.shields.io/cocoapods/p/Test.svg?style=flat)](http://cocoapods.org/pods/Test)
+[![CI Status](http://img.shields.io/travis/hanbin/Testio9io9io91.svg?style=flat)](https://travis-ci.org/hanbin/Testio9io9io91)
+[![Version](https://img.shields.io/cocoapods/v/Testio9io9io91.svg?style=flat)](http://cocoapods.org/pods/Testio9io9io91)
+[![License](https://img.shields.io/cocoapods/l/Testio9io9io91.svg?style=flat)](http://cocoapods.org/pods/Testio9io9io91)
+[![Platform](https://img.shields.io/cocoapods/p/Testio9io9io91.svg?style=flat)](http://cocoapods.org/pods/Testio9io9io91)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-Test is available through [CocoaPods](http://cocoapods.org). To install
+Testio9io9io91 is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "Test"
+pod "Testio9io9io91"
 ```
 
 ## Author
@@ -26,4 +26,4 @@ hanbin, hanbin.kim@navercorp.com
 
 ## License
 
-Test is available under the MIT license. See the LICENSE file for more info.
+Testio9io9io91 is available under the MIT license. See the LICENSE file for more info.

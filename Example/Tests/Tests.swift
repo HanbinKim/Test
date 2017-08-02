@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import Test
+import Testio9io9io91
 
 class Tests: XCTestCase {
     
